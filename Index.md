@@ -4,7 +4,9 @@ This is a list of things that are broken or were not functioning when I moved in
 
 ## The wall in the living room is cracking
 
-## The boiler makes a loud noise ever couple minutes
+![](photo_2020-10-01 11.06.43.jpeg)
+
+## The boiler makes a loud noise every couple minutes
 
 https://youtu.be/Ksho52Nt5sU
 
@@ -19,17 +21,52 @@ https://youtu.be/3nqwHUxwSO0
 
 ## The joints in the bathroom aren't finished
 
-## The joints in the bath aready broke seal
+![](IMG_0251.jpg)
+
+![](IMG_0252.jpg)
+
+![](IMG_0253.jpg)
+
+
+## The joints in the bath don't hold when using the bath
+
+![](signal-2020-09-23-225837.jpeg
+)
 
 ## The ceiling in the bathroom is cracked
 
-## The windows don't open
+![](IMG_0254.jpg)
+![](IMG_0309.jpg)
 
-## The fan in the kitchen doesn't work
+## The windows don't open because of the blinds
+
+![](IMG_0243.jpg)
+
+It also damages the blinds
+![](IMG_0242.jpg)
+
+## The fan in the kitchen does not work
+
+https://youtu.be/a6baeHa1il4
 
 ## The door lock seem unsafe
 
-## The tiles in the bathroom leave gaping holes through the walls
+This is not broken, but the lock on the door is inconvenient for 3 reasons:
 
-## The power outlets in the kitchen stopped working
+- It looks very unsafe and easy to pick
+- It prevents the door from closing automatically
+- It cannot be open from the inside without the key
 
+![](IMG_0281.jpg)
+
+## The fan in the bathroom does not work
+
+https://youtu.be/Ql1X__oRiL0
+
+## The tiles in the bathroom leave holes through the walls
+
+Isn't this a problem with humidity sipping into the walls?
+
+![](IMG_0287.jpg)
+
+![](IMG_0285.jpg)
