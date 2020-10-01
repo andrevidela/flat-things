@@ -4,7 +4,14 @@ This is a list of things that are broken or were not functioning when I moved in
 
 ## The wall in the living room is cracking
 
-![](photo_2020-10-01 11.06.43.jpeg)
+![](photo_2020-10-01.jpeg)
+
+## The joins in the shower aren't finished
+
+![](IMG_0256.jpg)
+
+They were started at the bottom but only run for an inch or two:
+![](IMG_0255.jpg)
 
 ## The boiler makes a loud noise every couple minutes
 
