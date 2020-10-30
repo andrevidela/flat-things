@@ -6,12 +6,6 @@ This is a list of things that are broken or were not functioning when I moved in
 
 ![](photo_2020-10-01.jpeg)
 
-## The joins in the shower aren't finished
-
-![](IMG_0256.jpg)
-
-They were started at the bottom but only run for an inch or two:
-![](IMG_0255.jpg)
 
 ## The boiler makes a loud noise every couple minutes
 
@@ -25,36 +19,10 @@ https://youtu.be/PCZm0p-bYYU
 
 https://youtu.be/3nqwHUxwSO0
 
-
-## The joints in the bathroom aren't finished
-
-![](IMG_0251.jpg)
-
-![](IMG_0252.jpg)
-
-![](IMG_0253.jpg)
-
-
-## The joints in the bath don't hold when using the bath
-
-![](signal-2020-09-23-225837.jpeg
-)
-
 ## The ceiling in the bathroom is cracked
 
 ![](IMG_0254.jpg)
 ![](IMG_0309.jpg)
-
-## The windows don't open because of the blinds
-
-![](IMG_0243.jpg)
-
-It also damages the blinds
-![](IMG_0242.jpg)
-
-## The fan in the kitchen does not work
-
-https://youtu.be/a6baeHa1il4
 
 ## The door lock seem unsafe
 
